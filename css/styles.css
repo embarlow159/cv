@@ -1,0 +1,48 @@
+body {
+    background-color: #DFF6FF;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+h1 {
+    color: #47B5FF;
+    font-family: sans-serif;
+}
+
+h3 {
+    color: #1363DF;
+    font-family: sans-serif;
+}
+
+p {
+    color: #06283D;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+li {
+    color: #06283D;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+table {
+    color: #06283D;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+hr {
+    border-color: #79DAE8;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    width: 50%;
+}
+
+img {
+    width: 250px;
+}
